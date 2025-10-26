@@ -25,3 +25,22 @@ Cuenta con:
 El programa principal (`Main.java`) crea tres paquetes y muestra su información.
 
 ---
+
+### Salida esperada
+```
+=== Agencia Destinos Mágicos ===
+Lista de Paquetes Turísticos
+
+--Paquete: Aventura en Cartagena
+--Destino: Cartagena
+--Duración: 5 días
+--Valor total: $2500000
+--Paquete: Descubre San Andrés
+--Destino: San Andrés Islas
+--Duración: 4 días
+--Valor total: $1800000
+--Paquete: Vacaciones en Cancún
+--Destino: Cancún - México
+--Duración: 7 días
+--Valor total: $4500000
+```
